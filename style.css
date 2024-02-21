@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container3 {
+  width: 100%;
+  height: 95vh;
+  background-color: aqua;
+  animation: ergeh 2s infinite linear;
+}
